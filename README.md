@@ -11,7 +11,7 @@ Challenge 1:(script.js)
 <br>
 
 Challenge 2:
-1. Fetch data from The provided [link](api)
+1. Fetch data from The provided [link](https://akabab.github.io/superhero-api/)
 2. create a Classes for all characters
 3. Create a battle mode
 4. Create a Creative design to show the battle mode
